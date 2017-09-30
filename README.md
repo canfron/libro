@@ -1,2 +1,0 @@
-# libro
-ejemplos del libro
